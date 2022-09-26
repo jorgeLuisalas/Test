@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/BVgmp7GG1Lgi9IQ6DW0TWalVBUA4uFAxIlcd69TbSk=",
+  "Source": "SSL.BackApi",
+  "BasePath": "_content/SSL.BackApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

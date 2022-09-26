@@ -1,0 +1,12 @@
+C:\Users\Win10\Desktop\Back\SSL.Common\bin\Debug\net6.0\SSL.Common.deps.json
+C:\Users\Win10\Desktop\Back\SSL.Common\bin\Debug\net6.0\SSL.Common.dll
+C:\Users\Win10\Desktop\Back\SSL.Common\bin\Debug\net6.0\ref\SSL.Common.dll
+C:\Users\Win10\Desktop\Back\SSL.Common\bin\Debug\net6.0\SSL.Common.pdb
+C:\Users\Win10\Desktop\Back\SSL.Common\obj\Debug\net6.0\SSL.Common.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Back\SSL.Common\obj\Debug\net6.0\SSL.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Back\SSL.Common\obj\Debug\net6.0\SSL.Common.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Back\SSL.Common\obj\Debug\net6.0\SSL.Common.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Back\SSL.Common\obj\Debug\net6.0\SSL.Common.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Back\SSL.Common\obj\Debug\net6.0\SSL.Common.dll
+C:\Users\Win10\Desktop\Back\SSL.Common\obj\Debug\net6.0\ref\SSL.Common.dll
+C:\Users\Win10\Desktop\Back\SSL.Common\obj\Debug\net6.0\SSL.Common.pdb

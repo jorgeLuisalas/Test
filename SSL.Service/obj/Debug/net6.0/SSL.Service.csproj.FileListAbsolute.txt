@@ -1,0 +1,17 @@
+C:\Users\Win10\Desktop\Back\SSL.Service\bin\Debug\net6.0\SSL.Service.deps.json
+C:\Users\Win10\Desktop\Back\SSL.Service\bin\Debug\net6.0\SSL.Service.dll
+C:\Users\Win10\Desktop\Back\SSL.Service\bin\Debug\net6.0\ref\SSL.Service.dll
+C:\Users\Win10\Desktop\Back\SSL.Service\bin\Debug\net6.0\SSL.Service.pdb
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\SSL.Service.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\SSL.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\SSL.Service.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\SSL.Service.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\SSL.Service.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\SSL.Service.dll
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\ref\SSL.Service.dll
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\SSL.Service.pdb
+C:\Users\Win10\Desktop\Back\SSL.Service\bin\Debug\net6.0\SSL.Common.dll
+C:\Users\Win10\Desktop\Back\SSL.Service\bin\Debug\net6.0\SSL.Common.pdb
+C:\Users\Win10\Desktop\Back\SSL.Service\obj\Debug\net6.0\SSL.Service.csproj.CopyComplete
+C:\Users\Win10\Desktop\Back\SSL.Service\bin\Debug\net6.0\SSL.Data.dll
+C:\Users\Win10\Desktop\Back\SSL.Service\bin\Debug\net6.0\SSL.Data.pdb
